@@ -1,0 +1,10 @@
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\bin\Debug\netstandard2.1\SaxoOpenAPIClient.deps.json
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\bin\Debug\netstandard2.1\SaxoOpenAPIClient.dll
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\bin\Debug\netstandard2.1\SaxoOpenAPIClient.pdb
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.csproj.AssemblyReference.cache
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.AssemblyInfoInputs.cache
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.AssemblyInfo.cs
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.csproj.CoreCompileInputs.cache
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.dll
+G:\My Drive\CODE\Saxo Deploy\C#_Saxo_Library\SaxoOpenAPIClient\obj\Debug\netstandard2.1\SaxoOpenAPIClient.pdb
