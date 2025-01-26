@@ -7,13 +7,13 @@ A comprehensive C# client library for the Saxo Bank OpenAPI, providing a strongl
 
 ## Features
 
-- 🔐 **Complete Authentication Support**
+-  **Complete Authentication Support**
   - OAuth2 Authorization Code Flow
   - PKCE Flow for public clients
   - Certificate-Based Authentication (CBA)
   - Automatic token management
 
-- 📈 **Trading & Orders**
+-  **Trading & Orders**
   - Single orders
   - Multi-leg option strategies
   - OCO (One-Cancels-Other) orders
@@ -21,21 +21,21 @@ A comprehensive C# client library for the Saxo Bank OpenAPI, providing a strongl
   - Conditional orders
   - Block orders
 
-- 💼 **Portfolio Management**
+-  **Portfolio Management**
   - Position tracking
   - Order management
   - Account balances
   - Performance metrics
   - Report generation
 
-- 📊 **Market Data**
+-  **Market Data**
   - Real-time price streaming
   - Market depth
   - Historical data
   - Options chain
   - Trade messages
 
-- 📱 **Real-time Updates**
+-  **Real-time Updates**
   - WebSocket streaming
   - Event notifications
   - Connection management
@@ -161,14 +161,6 @@ For support, please:
 1. Check the [Documentation](Documentation)
 2. Search [Issues](../../issues)
 3. Create a new issue if needed
-
-## Roadmap
-
-- [ ] Add support for more order types
-- [ ] Implement additional streaming features
-- [ ] Add more example applications
-- [ ] Enhance error handling and retry logic
-- [ ] Add performance optimizations
 
 ## Security
 
